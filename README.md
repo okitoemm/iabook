@@ -7,11 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# IABOOK - Plateforme de mise en relation Artisans/Clients
+# ARTISANPRO - Plateforme de mise en relation Artisans/Clients
 
 ## À propos
 
-IABOOK est une plateforme web qui met en relation les artisans du bâtiment avec des clients potentiels. Elle permet aux clients de publier leurs projets et aux artisans de proposer leurs services.
+ARTISANPRO est une plateforme web qui met en relation les artisans du bâtiment avec des clients potentiels. Elle permet aux clients de publier leurs projets et aux artisans de proposer leurs services.
 
 ## Fonctionnalités principales
 
