@@ -54,7 +54,7 @@ ARTISANPRO est une plateforme web qui met en relation les artisans du bâtiment 
 ## Fonctionnalités principales
 
 - Authentification avec email ou Google
-- 
+  
 
 ![C0663227-6497-46D4-BDA7-6984E3BBF153_1_201_a](https://github.com/user-attachments/assets/0e3c0c97-d92a-432a-bc97-e07d3498cd88)
 
