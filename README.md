@@ -69,7 +69,11 @@ ARTISANPRO est une plateforme web qui met en relation les artisans du bâtiment 
 
 
 
--  Dashboard Client 
+-  Dashboard Client
+
+
+-  ![DFDDD957-ADF1-4A05-BBCD-85570B9904D2_1_201_a](https://github.com/user-attachments/assets/8de5fd47-c0e5-4efd-8331-0f9755de6fb9)
+
 
 ![C40B14C5-A1B6-43C6-923B-88CEE6186D97_1_201_a](https://github.com/user-attachments/assets/2a08eed0-9131-4bd5-b83f-c1e86b6b5a51)
 
