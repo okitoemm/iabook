@@ -26,6 +26,7 @@
 
 
 
+![CA9056AF-B007-418B-9EEC-DF4E14E23455_1_201_a](https://github.com/user-attachments/assets/81af3637-51d6-4898-b628-b54a77b7fe78)
 
 
 
@@ -53,7 +54,26 @@ ARTISANPRO est une plateforme web qui met en relation les artisans du bâtiment 
 ## Fonctionnalités principales
 
 - Authentification avec email ou Google
+- 
+
+![C0663227-6497-46D4-BDA7-6984E3BBF153_1_201_a](https://github.com/user-attachments/assets/0e3c0c97-d92a-432a-bc97-e07d3498cd88)
+
+
+
 - Gestion des profils (Client/Artisan)
+
+-  Dashboard Artisan
+
+-  
+![0EAAD63A-270D-432A-A4C4-E1D4BDA16206_1_201_a](https://github.com/user-attachments/assets/e7678fa1-dc06-4cfc-afea-512c7631450d)
+
+
+
+-  Dashboard Client 
+
+![C40B14C5-A1B6-43C6-923B-88CEE6186D97_1_201_a](https://github.com/user-attachments/assets/2a08eed0-9131-4bd5-b83f-c1e86b6b5a51)
+
+
 - Publication et gestion de projets
 - Système de messagerie intégré
 - Système de devis
